@@ -1,0 +1,4 @@
+Datasets are to download from this link https://www.kaggle.com/c/ieee-fraud-detection/data
+1. Save them in Drive
+2. Change the directory in the code.
+3. the datsets will be merged by executing the code of EDA file 
